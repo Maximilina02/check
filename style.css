@@ -2,3 +2,12 @@
     color: white;
     background-color: black;
 }
+
+body {
+    background-color: black;
+    color: white;
+}
+
+#a-tag {
+    color: red;
+}
